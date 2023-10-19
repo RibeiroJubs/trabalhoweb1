@@ -1,0 +1,99 @@
+.flex {
+    display: flex;
+    flex-direction: center;
+    background-color: black;
+   }
+   
+   .item
+
+    {
+   margin: 5px;
+   background: #76efff;
+   text-align: center;
+   font-size: 1.5em;
+   }
+   .container {
+   max-width: 600px;
+   margin: 0 auto;
+   border: 5px solid
+   #4873ff;
+   }
+   .botao1 { border-color: rgb(7, 6, 8);
+    background-color:#88face ;
+    font-size: 20px;
+    margin-left: 60px;
+    height: 60px;
+    width: -80px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+   }
+.botao1:hover { background-color: rgb(255, 127, 197);
+
+}
+
+    .botao2 { border-color: rgb(7, 6, 8);
+        background-color:#88face ;
+        align-items: center;
+        height: 60px;
+        width: -80px;
+        margin-left: 80px;
+        margin-top: auto;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+       }
+
+       .botao2:hover { background-color: rgb(255, 127, 197);}
+    
+        .botao3 { border-color: rgb(7, 6, 8);
+            background-color:#88face ;
+            font-size: 20px;
+            height: 60px;
+            width: -80px;
+            margin-left: 100px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: italic;
+           }
+        
+           .botao3:hover { background-color: rgb(255, 127, 197);  } 
+  
+   h1 { font-size: 30px;
+        text-align: center;
+   }
+
+   .container2 {
+    max-width: 600px;
+    display: flex;
+    flex-direction: center;
+    margin: 0 auto;
+    margin-top: auto ;
+    border: 5px solid
+    #4873ff;
+    }
+   p { text-align: center;
+    font-size: 30px;
+    background-color: rgb(145, 156, 255);
+    font-style: italic; 
+   }
+
+   #box { max-width: 600px;
+    display: flex;
+    flex-direction: center;
+    margin: auto;
+    margin-inline-start: auto;
+    margin-top: ;
+    border: 5px solid#4873ff;
+    background-color: #c6ccff;
+    font-size: 30px;
+    font-style: italic;
+   }
+   .container3 {
+    max-width: 600px;
+    display: flex;
+    flex-direction: center;
+    margin: 0 auto;
+    margin-left: 0 auto;
+    border: 5px solid;
+    border-color: #4873ff; }
+
